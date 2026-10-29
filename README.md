@@ -1,5 +1,5 @@
 
-# Ex.No:1 To create a employee details fields and to display the employee details using Firebase Database in Android Studio.
+# Ex No: 1 A : To create a employee details fields and to display the employee details using Firebase Database in Android Studio.
 
 ## NAME : SHREYESHKAR SEKAR
 ## REGISTER NUMBER : 212224220099
